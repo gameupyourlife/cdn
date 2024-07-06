@@ -10,7 +10,7 @@
     --secondary: #96aeae;
     --accent: #13AEA9;
 
-    font-family: "Inter", sans-serif;
+    font-family: "Inter", latin;
     color: var(--text);
 
 }
