@@ -100,7 +100,7 @@ a {
 /* Input */
 /* ####################################################################### */
 
-input {
+select, input {
     width: 100%;
     height: 40px;
     padding: 8px !important;
@@ -112,7 +112,7 @@ input {
     color: var(--text) !important;
 }
 
-input:focus {
+select, input:focus {
     outline: none !important;
 }
 
